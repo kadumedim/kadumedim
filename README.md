@@ -6,6 +6,4 @@ Skills: JS / EMULATION / ETC
 
 - 🌱 I’m currently learning Node Js Frameworks 
 
-
-
-
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
