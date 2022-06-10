@@ -1,5 +1,7 @@
-[https://github.com/kadumedim/kadumedim/blob/main/header.png ](https://github.com/kadumedim/kadumedim/blob/main/header.png?raw=true)
-/header.png
+[https://github.com/kadumedim/kadumedim/blob/main/header.png ](https://github.com/kadumedim/kadumedim/blob/main/header.png?raw=true) 
+
+/header.png 
+
 Graduated from IFRS - Campus Farroupilha looking to learn a lot about technologies.
 
 Skills: JS / EMULATION / ETC
