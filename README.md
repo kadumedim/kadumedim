@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Medim!
-#### A mainly back-end dev from Brazil
+/https://github.com/kadumedim/kadumedim/blob/main/header.png
 Graduated from IFRS - Campus Farroupilha looking to learn a lot about technologies.
 
 Skills: JS / EMULATION / ETC
