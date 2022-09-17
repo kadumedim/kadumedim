@@ -10,7 +10,7 @@ Skills: JS / TS / REACT / VUE / NEXT / NUXT / EMULATION / ETC
     * CI/CD 
     * Testing/Coverage of Code
     * Cloud/Edge Computing and Deploying (Vercel, Koyeb, Railway)
-    * Priorizing Code Quality, Best Practices and Accessibility options.
+    * Prioritizing Code Quality, Best Practices and Accessibility options.
 
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
