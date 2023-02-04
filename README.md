@@ -3,7 +3,7 @@
 
 Graduated from IFRS - Campus Farroupilha looking to learn a lot about technologies.
 
-Skills: JS / TS / REACT / VUE / NEXT / NUXT / EMULATION / ETC
+Skills: JS / TS / REACT / VUE / NEXT / NUXT 
 
 - I’m currently learning : 
     * Typescript Strict Mode
