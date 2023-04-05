@@ -2,11 +2,12 @@
 
 
 Graduated from IFRS - Campus Farroupilha looking to learn a lot about technologies.
+Studying Computer Science at Faculdade Descomplica - POA
 
 Skills: JS / TS / REACT / VUE / NEXT / NUXT 
 
 - I’m currently learning : 
-    * Typescript Strict Mode
+    * Typescript
     * CI/CD 
     * Testing/Coverage of Code
     * Cloud/Edge Computing and Deploying (Vercel, Koyeb, Railway)
