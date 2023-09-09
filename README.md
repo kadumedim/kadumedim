@@ -5,4 +5,5 @@
 
 Skills: JS / TS / REACT / VUE / NEXT / NUXT <br />
 Currently learning: Rust
+Currently working on: Internal CRM/ERP Systems for Regional Companies.
 
