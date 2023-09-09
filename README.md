@@ -3,6 +3,6 @@
 🧑‍💻 - Winner of the RocketSeat Full Scholarship (2022 - StartIdea) <br />
 🧑‍💻 - Winner of the Cisco Brazil CyberSecurity Advanced Scholarship (2022 - Descomplica) <br />
 
-Skills: JS / TS / REACT / VUE / NEXT / NUXT 
+Skills: JS / TS / REACT / VUE / NEXT / NUXT <br />
 Currently learning: Rust
 
